@@ -1,8 +1,13 @@
+.head {
+    z-index: 0;
+}
+
 /* Style the header with a grey background and some padding */
 .header {
+    z-index: 1;
     overflow: hidden;
     background-color: #f1f1f1;
-    padding: 20px 10px;
+    padding: 20px 40px;
   }
   
   /* Style the header links */
@@ -30,19 +35,22 @@
   }
   
   /* Style the active/current link*/
-  .header a.active {
+  .header .active {
     background-color: dodgerblue;
     color: white;
   }
   
   /* Float the link section to the right */
-  .header-right {
+  .header-left {
     float: left;
     margin-left: 50px;
   }
+  .header-right {
+      float: right;
+  }
   
   /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 500px){
     .header a {
       float: none;
       display: block;
@@ -52,3 +60,11 @@
       float: none;
     }
   }
+ .login {
+     margin-right: 35px;
+ }
+ .signup {
+     margin-right: 50px;
+ }
+/*LOGIN & REGISTER SYSTEM */
+  /*LOGIN & REGISTER SYSTEM */
