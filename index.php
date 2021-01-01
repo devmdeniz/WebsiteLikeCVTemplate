@@ -39,6 +39,10 @@
 <img src="images/nodejs.png">
 <img src="images/mysql.png">
 <img src="images/mongodb.png">
+<img src="images/git.png">
+</div>
+<div>
+
 </div>
 
 
