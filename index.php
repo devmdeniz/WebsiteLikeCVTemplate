@@ -41,8 +41,22 @@
 <img src="images/mongodb.png">
 <img src="images/git.png">
 </div>
-<div>
+</div>
 
+<div class="exproject">
+    <h3 class="exprojecth3">Example Projects</h3>
+<div class="exprojectleft">
+<img src="images/git.png">
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus accusantium ad non voluptatem quaerat incidunt, quod delectus tempore ducimus facere aut aliquam assumenda rem. Architecto explicabo voluptatibus repellat officia dolor autem doloribus nulla nihil ipsum reprehenderit in nobis dicta molestiae aliquam eveniet quam consequuntur, fugiat quas nostrum? Blanditiis, debitis deleniti?</p>
+</div>
+<div class="exprojectmiddle">
+<img src="images/git.png">
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus accusantium ad non voluptatem quaerat incidunt, quod delectus tempore ducimus facere aut aliquam assumenda rem. Architecto explicabo voluptatibus repellat officia dolor autem doloribus nulla nihil ipsum reprehenderit in nobis dicta molestiae aliquam eveniet quam consequuntur, fugiat quas nostrum? Blanditiis, debitis deleniti?</p>
+</div>
+<div class="exprojectright">
+<img src="images/git.png">
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus accusantium ad non voluptatem quaerat incidunt, quod delectus tempore ducimus facere aut aliquam assumenda rem. Architecto explicabo voluptatibus repellat officia dolor autem doloribus nulla nihil ipsum reprehenderit in nobis dicta molestiae aliquam eveniet quam consequuntur, fugiat quas nostrum? Blanditiis, debitis deleniti?</p>
+</div>
 </div>
 
 

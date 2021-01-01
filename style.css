@@ -161,3 +161,52 @@
 .planguagesiknow h3 {
   margin-left: 15%;
 }
+.exproject {
+  border-style: groove;
+  border-color: #aaab;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  margin-left: 280px;
+  margin-top: 50px;
+  max-width: 66%;
+}
+.exprojecth3 {
+  margin-left: 37%;
+}
+.exprojectleft img {
+  max-width: 100px;
+  max-height: 100px;
+  margin-left: 33%;
+}
+.exprojectleft {
+  float: left;  
+  border-style: groove;
+  border-color: #aaab;
+  max-width: 250px;
+  max-height: 100%;
+}
+.exprojectmiddle {
+  float: left;
+  margin-left: 50px;
+  border-style: groove;
+  border-color: #aaab;
+  max-width: 250px;
+  max-height: 100%;
+}
+.exprojectmiddle img {
+  max-width: 100px;
+  max-height: 100px;
+  margin-left: 33%;
+}
+.exprojectright {
+  float: right;
+  margin-right: 30px;
+  border-style: groove;
+  border-color: #aaab;
+  max-width: 250px;
+  max-height: 100%;
+}
+.exprojectright img {
+  max-width: 100px;
+  max-height: 100px;
+  margin-left: 33%;
+}
