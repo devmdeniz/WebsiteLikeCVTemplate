@@ -8,6 +8,7 @@
     overflow: hidden;
     background-color: #f1f1f1;
     padding: 20px 40px;
+    max-width: 100%;
   }
   
   /* Style the header links */
@@ -150,4 +151,13 @@
   box-shadow: 10px 10px 5px #aaaaaa;
   float: none;
   margin-left: 280px;
+  max-height: 200px;
+  height: 200px;
+}
+.planguagesiknow img {
+  max-width: 100px;
+  max-height: 100px;
+}
+.planguagesiknow h3 {
+  margin-left: 15%;
 }

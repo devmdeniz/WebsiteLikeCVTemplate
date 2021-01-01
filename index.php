@@ -33,6 +33,12 @@
     <h3>Main Language</h3>
 <img src="images/php.svg" alt="Main Language"/>
 </div>
+<div class="planguagesiknow">
+<h3>Languages and Technologies I Know</h3>
+<img src="images/javascript.svg">
+<img src="images/nodejs.png">
+<img src="images/mysql.png">
+<img src="images/mongodb.png">
 </div>
 
 
