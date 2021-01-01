@@ -11,9 +11,9 @@
             <p class="title">Ceo Of F-Tech Studios </p>
             <p>If you believe yourself, you can do everything, Just START NOW!</p>
             <a href="https://instagram.com/dev.mdeniz"><i class="fa fa-instagram socialmediaperson"></i></a>
-            <a href="#"><i class="fa fa-github socialmediaperson"></i></a>
-            <a href="#"><i class="fa fa-linkedin socialmediaperson"></i></a>
-            <a href="#"><i class="fa fa-facebook socialmediaperson"></i></a>
+            <a href="https://github.com/devmdeniz"><i class="fa fa-github socialmediaperson"></i></a>
+            <a href="https://www.linkedin.com/in/deniz-kumcu-081b00187/"><i class="fa fa-linkedin socialmediaperson"></i></a>
+            <a href="#"><i class="fa fa-youtube socialmediaperson"></i></a>
             <br>
             <p><button class="buttonperson">Contact Me!</button></p>
         </div>
