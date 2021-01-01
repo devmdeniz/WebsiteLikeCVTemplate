@@ -28,6 +28,12 @@
         C# programming languages and decided to switch to FullStack Web Development.
      </p>
 </div>
+<div class="planguages">
+<div class="mainlanguage card"> 
+    <h3>Main Language</h3>
+<img src="images/php.svg" alt="Main Language"/>
+</div>
+</div>
 
 
 </body>
