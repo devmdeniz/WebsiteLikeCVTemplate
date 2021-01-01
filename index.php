@@ -45,17 +45,24 @@
 
 <div class="exproject">
     <h3 class="exprojecth3">Example Projects</h3>
-<div class="exprojectleft">
+<br>
+    <div class="exprojectleft">
+<a href="#" target="_blank">
 <img src="images/git.png">
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus accusantium ad non voluptatem quaerat incidunt, quod delectus tempore ducimus facere aut aliquam assumenda rem. Architecto explicabo voluptatibus repellat officia dolor autem doloribus nulla nihil ipsum reprehenderit in nobis dicta molestiae aliquam eveniet quam consequuntur, fugiat quas nostrum? Blanditiis, debitis deleniti?</p>
+</a>
 </div>
 <div class="exprojectmiddle">
+<a href="#" target="_blank">
 <img src="images/git.png">
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus accusantium ad non voluptatem quaerat incidunt, quod delectus tempore ducimus facere aut aliquam assumenda rem. Architecto explicabo voluptatibus repellat officia dolor autem doloribus nulla nihil ipsum reprehenderit in nobis dicta molestiae aliquam eveniet quam consequuntur, fugiat quas nostrum? Blanditiis, debitis deleniti?</p>
+</a>
 </div>
 <div class="exprojectright">
+<a href="#" target="_blank">
 <img src="images/git.png">
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus accusantium ad non voluptatem quaerat incidunt, quod delectus tempore ducimus facere aut aliquam assumenda rem. Architecto explicabo voluptatibus repellat officia dolor autem doloribus nulla nihil ipsum reprehenderit in nobis dicta molestiae aliquam eveniet quam consequuntur, fugiat quas nostrum? Blanditiis, debitis deleniti?</p>
+</a>
 </div>
 </div>
 

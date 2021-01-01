@@ -79,7 +79,7 @@
      position: fixed;
  }
  .card {
-    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 10px 10px 5px #aaaaaa;
     width: 250px;
     height: 600px;
     margin: auto;
@@ -162,15 +162,29 @@
   margin-left: 15%;
 }
 .exproject {
-  border-style: groove;
-  border-color: #aaab;
-  box-shadow: 10px 10px 5px #aaaaaa;
   margin-left: 280px;
   margin-top: 50px;
   max-width: 66%;
 }
+.exproject a{
+  color: black;
+}
+.exproject a:active{
+  color: black;
+}
+.exproject a:hover{
+  color: black;
+}
+.exproject a:link{
+  color: black;
+}
+.exproject a:visited{
+  color: black;
+}
 .exprojecth3 {
-  margin-left: 37%;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  margin-right: 350px;
+  margin-left: 36%;
 }
 .exprojectleft img {
   max-width: 100px;
@@ -179,16 +193,14 @@
 }
 .exprojectleft {
   float: left;  
-  border-style: groove;
-  border-color: #aaab;
+  box-shadow: 10px 10px 5px #aaaaaa;
   max-width: 250px;
   max-height: 100%;
 }
 .exprojectmiddle {
   float: left;
   margin-left: 50px;
-  border-style: groove;
-  border-color: #aaab;
+  box-shadow: 10px 10px 5px #aaaaaa;
   max-width: 250px;
   max-height: 100%;
 }
@@ -200,8 +212,7 @@
 .exprojectright {
   float: right;
   margin-right: 30px;
-  border-style: groove;
-  border-color: #aaab;
+  box-shadow: 10px 10px 5px #aaaaaa;
   max-width: 250px;
   max-height: 100%;
 }
