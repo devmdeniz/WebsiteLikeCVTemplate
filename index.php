@@ -1,3 +1,13 @@
+<?php
+session_start();
+
+if (!$_SESSION["language"]) {
+    require("languages/tr.php");
+}else {
+require("languages/".$_SESSION["language"].".php");
+}
+
+?>
 <html>
 <?php include("theme/headtags.php");?>
 
@@ -103,8 +113,9 @@
 <details>
     <summary>Language Options</summary>
     <ul>
-        <li>Turkish</li>
-        <li>English</li>
+        <li><a href="language.php?language=tr">Turkish</a></li>
+        <li><a href="language.php?language=en">English</a></li>
+        <li><?php echo $_SESSION["language"];?></li>
 </ul>
 </footer>
 </body>
