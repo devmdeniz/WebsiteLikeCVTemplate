@@ -61,14 +61,26 @@
       float: none;
     }
   }
-  /*LOGIN & REGISTER SYSTEM */
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #505050;
+  color: white;
+}
+
+
+
+
+
+ 
  .login {
      margin-right: 35px;
  }
  .signup {
      margin-right: 50px;
  }
- /*LOGIN & REGISTER SYSTEM */
+ 
 
 
 
