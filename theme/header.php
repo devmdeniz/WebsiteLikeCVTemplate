@@ -6,7 +6,7 @@
             <a class="header-a" href="#about"><?php echo $language["About"]?></a>
         </div>
         <div class="header-right">
-        <a class="active login header-a" href="#">Log In</a>
-        <a class="active signup header-a" href="#">Sign Up</a>    
+        <a class="active login header-a" href="#"><?php echo $language["Login"]?></a>
+        <a class="active signup header-a" href="#"><?php echo $language["Signup"]?></a>    
     </div>
     </div>
