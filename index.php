@@ -39,7 +39,7 @@ require("languages/".$_SESSION["language"].".php");
 </div>
 <div class="planguagesiknow">
 <h3><?php echo $language["languagesandtechsiknow"]?></h3>
-<img src="images/javascript.svg">
+<img src="images/Javascript.svg">
 <img src="images/nodejs.png">
 <img src="images/mysql.png">
 <img src="images/mongodb.png">

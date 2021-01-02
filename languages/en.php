@@ -11,7 +11,7 @@ $language = array(
     /*Header Translate*/
     /*Index Translate*/
     "profilecardname" => "DevMDeniz",
-    "job" => "CEO of F-Tech and Full Stack Developer",
+    "job" => "CEO of F-Tech and BackEnd Developer",
     "profilecarddescription" => "If you belive yourself, you can do everythink. Just START NOW!",
     "contactme" => "Contact Me!",
     "myskills" => "Autobiography",
