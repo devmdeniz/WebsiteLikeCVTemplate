@@ -100,7 +100,12 @@
 <br>
 <br>
 <footer>
-
+<details>
+    <summary>Language Options</summary>
+    <ul>
+        <li>Turkish</li>
+        <li>English</li>
+</ul>
 </footer>
 </body>
 
