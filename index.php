@@ -17,34 +17,28 @@ require("languages/".$_SESSION["language"].".php");
     <div class="person">
         <div class="card">
             <img src="images/darklogo.png" alt="John" style="width:99%">
-            <h1>DevMDeniz</h1>
-            <p class="title">Ceo Of F-Tech Studios </p>
-            <p>If you believe yourself, you can do everything, Just START NOW!</p>
+            <h1><?php echo $language["profilecardname"]?></h1>
+            <p class="title"><?php echo $language["job"]?></p>
+            <p><?php echo $language["profilecarddescription"]?></p>
             <a href="https://instagram.com/dev.mdeniz"><i class="fa fa-instagram socialmediaperson"></i></a>
             <a href="https://github.com/devmdeniz"><i class="fa fa-github socialmediaperson"></i></a>
             <a href="https://www.linkedin.com/in/deniz-kumcu-081b00187/"><i class="fa fa-linkedin socialmediaperson"></i></a>
             <a href="#"><i class="fa fa-youtube socialmediaperson"></i></a>
             <br>
-            <p><button class="buttonperson">Contact Me!</button></p>
+            <p><button class="buttonperson"><?php echo $language["contactme"]?></button></p>
         </div>
     </div>
      <div class= "main">
-     <h1 class = "myskills">My Skills</h1>
-     <p class= "myskillsp">
-        I started software with NodeJS. I coded the Discord bot for 1 year.
-        Then I wondered about the working systems of websites and started HTML,
-        CSS and Javascript. Then I moved away from Web Development and started
-        trying different things. At these times, I learned Java, Kotlin, Python,
-        C# programming languages and decided to switch to FullStack Web Development.
-     </p>
+     <h1 class = "myskills"><?php echo $language["myskills"]?></h1>
+     <p class= "myskillsp"><?php echo $language["myskillsp"]?></p>
 </div>
 <div class="planguages">
 <div class="mainlanguage card"> 
-    <h3>Main Language</h3>
+    <h3><?php echo $language["mymainprogramminglanguage"]?></h3>
 <img src="images/php.svg" alt="Main Language"/>
 </div>
 <div class="planguagesiknow">
-<h3>Languages and Technologies I Know</h3>
+<h3><?php echo $language["languagesandtechsiknow"]?></h3>
 <img src="images/javascript.svg">
 <img src="images/nodejs.png">
 <img src="images/mysql.png">
@@ -54,31 +48,31 @@ require("languages/".$_SESSION["language"].".php");
 </div>
 
 <div class="exproject">
-    <h3 class="exprojecth3">Example Projects</h3>
+    <h3 class="exprojecth3"><?php echo $language["exampleprojects"]?></h3>
 <br>
     <div class="exprojectleft">
 <a href="#" target="_blank">
 <img src="images/git.png">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus accusantium ad non voluptatem quaerat incidunt, quod delectus tempore ducimus facere aut aliquam assumenda rem. Architecto explicabo voluptatibus repellat officia dolor autem doloribus nulla nihil ipsum reprehenderit in nobis dicta molestiae aliquam eveniet quam consequuntur, fugiat quas nostrum? Blanditiis, debitis deleniti?</p>
+<p><?php echo $language["projectonedescription"]?></p>
 </a>
 </div>
 <div class="exprojectmiddle">
 <a href="#" target="_blank">
 <img src="images/git.png">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus accusantium ad non voluptatem quaerat incidunt, quod delectus tempore ducimus facere aut aliquam assumenda rem. Architecto explicabo voluptatibus repellat officia dolor autem doloribus nulla nihil ipsum reprehenderit in nobis dicta molestiae aliquam eveniet quam consequuntur, fugiat quas nostrum? Blanditiis, debitis deleniti?</p>
+<p><?php echo $language["projecttwodescription"]?></p>
 </a>
 </div>
 <div class="exprojectright">
 <a href="#" target="_blank">
 <img src="images/git.png">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus accusantium ad non voluptatem quaerat incidunt, quod delectus tempore ducimus facere aut aliquam assumenda rem. Architecto explicabo voluptatibus repellat officia dolor autem doloribus nulla nihil ipsum reprehenderit in nobis dicta molestiae aliquam eveniet quam consequuntur, fugiat quas nostrum? Blanditiis, debitis deleniti?</p>
+<p><?php echo $language["projectthreedescroption"]?></p>
 </a>
 </div>
 </div>
 
 <div class="languages">
 <div class="tr">
-<h3>Main Language</h3>
+<h3><?php echo $language["mainlanguage"]?></h3>
 <img src="images/trflag.svg"/>
 <br>
 <p>10/9</p>
