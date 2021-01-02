@@ -66,7 +66,39 @@
 </div>
 </div>
 
-
+<div class="languages">
+<div class="tr">
+<h3>Main Language</h3>
+<img src="images/trflag.svg"/>
+<br>
+<p>10/9</p>
+</div>
+<br>
+<br>
+<div class="en">
+<img src="images/enflag.png"/>
+<p>10/7</p>
+<br>
+</div>
+<div class="az">
+<img src="images/azflag.svg"/>
+<p>10/7</p>
+<br>
+</div>
+<div class="es">
+<img src="images/esflag.png"/>
+<p>10/4</p>
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </body>
 
 </html>

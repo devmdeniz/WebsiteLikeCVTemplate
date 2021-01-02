@@ -72,10 +72,8 @@
 
 
 
- /*Profile Card*/
  .person {
      float: left;
-     margin-top: 50px;
      position: fixed;
  }
  .card {
@@ -119,7 +117,7 @@
     box-shadow: 10px 10px 5px #aaaaaa;
     float: none;
     margin-left: 270px;
-    max-width: 66%;
+    max-width: 1300px;
     z-index: 3;
 }
 
@@ -134,7 +132,7 @@
 .planguages {
 
   margin-top: 50px;
-  margin-left: 270px;
+  margin-left: 400px;
   max-width: 66%;
 }
 .mainlanguage {
@@ -152,6 +150,7 @@
   float: none;
   margin-left: 280px;
   max-height: 200px;
+  max-width: 1000px;
   height: 200px;
 }
 .planguagesiknow img {
@@ -162,7 +161,7 @@
   margin-left: 15%;
 }
 .exproject {
-  margin-left: 280px;
+  margin-left: 400px;
   margin-top: 50px;
   max-width: 66%;
 }
@@ -185,6 +184,7 @@
   box-shadow: 10px 10px 5px #aaaaaa;
   margin-right: 350px;
   margin-left: 36%;
+  max-width: 230px;
 }
 .exprojectleft img {
   max-width: 100px;
@@ -210,8 +210,8 @@
   margin-left: 33%;
 }
 .exprojectright {
-  float: right;
-  margin-right: 30px;
+  float: left;
+  margin-left: 50px;
   box-shadow: 10px 10px 5px #aaaaaa;
   max-width: 250px;
   max-height: 100%;
@@ -220,4 +220,64 @@
   max-width: 100px;
   max-height: 100px;
   margin-left: 33%;
+}
+.languages {
+  margin-top: 500px;
+  margin-left: 280px;
+}
+.languages img {
+  max-width: 150px;
+  max-height: 150px;
+}
+.en {
+  box-shadow: 10px 10px 5px #aaaaaa;
+  float: left;
+  max-width: 250px;
+  max-height: 250px;
+  margin-left: 50px;
+}
+.en p {
+  margin-left: 45%;
+}
+.tr {
+  box-shadow: 10px 10px 5px #aaaaaa;
+  float: left;
+  max-width: 250px;
+  max-height: 250px;
+}
+.tr p {
+  margin-left: 40%;
+}
+.tr img {
+  max-width: 100%;
+}
+.en img {
+  max-width: 100%;
+}
+.az img {
+  max-width: 100%;
+}
+.az {
+  box-shadow: 10px 10px 5px #aaaaaa;
+  float: left;
+  max-width: 250px;
+  max-height: 250px;
+  margin-left: 1%;
+}
+.az p {
+  margin-left: 40%;
+}
+
+.es img {
+  max-width: 100%;
+}
+.es {
+  box-shadow: 10px 10px 5px #aaaaaa;
+  float: left;
+  max-width: 250px;
+  max-height: 200px;
+  margin-left: 1%;
+}
+.es p {
+  margin-left: 40%;
 }
