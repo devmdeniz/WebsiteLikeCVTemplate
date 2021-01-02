@@ -14,7 +14,7 @@ $language = array(
     "job" => "CEO of F-Tech and Full Stack Developer",
     "profilecarddescription" => "If you belive yourself, you can do everythink. Just START NOW!",
     "contactme" => "Contact Me!",
-    "myskills" => "My Skills",
+    "myskills" => "Autobiography",
     "myskillsp" => "I started software with NodeJS. I coded the Discord bot for 1 year.
     Then I wondered about the working systems of websites and started HTML,
     CSS and Javascript. Then I moved away from Web Development and started

@@ -34,7 +34,7 @@ require("languages/".$_SESSION["language"].".php");
 </div>
 <div class="planguages">
 <div class="mainlanguage card"> 
-    <h3><?php echo $language["mymainprogramminglanguage"]?></h3>
+    <h3><?php echo $language["mainprogramminglanguage"]?></h3>
 <img src="images/php.svg" alt="Main Language"/>
 </div>
 <div class="planguagesiknow">
@@ -65,7 +65,7 @@ require("languages/".$_SESSION["language"].".php");
 <div class="exprojectright">
 <a href="#" target="_blank">
 <img src="images/git.png">
-<p><?php echo $language["projectthreedescroption"]?></p>
+<p><?php echo $language["projectthreedescription"]?></p>
 </a>
 </div>
 </div>
