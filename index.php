@@ -15,9 +15,6 @@ require("languages/".$_SESSION["language"].".php");
 
 <!--
     
-php echo $language["profilecardname"]    
-php echo $language["job"]
-php echo $language["profilecarddescription"]
 -->
 
     <?php include("theme/header.php");?>
@@ -25,9 +22,9 @@ php echo $language["profilecarddescription"]
     <div class="person">
         <div class="card">
             <img src="images/darklogo.png" alt="John" style="width:99%">
-            <h1>DevMDeniz</h1>
-            <p class="title">Lorem.</p>
-            <p></p>
+            <h1><?php echo $language["profilecardname"]?></h1>
+            <p class="title"><?php echo $language["profilecardjob"]?></p>
+            <p><?php echo $language["profilecarddescription"]?></p>
             <a href="https://instagram.com/dev.mdeniz"><i class="fa fa-instagram socialmediaperson"></i></a>
             <a href="https://github.com/devmdeniz"><i class="fa fa-github socialmediaperson"></i></a>
             <a href="https://www.linkedin.com/in/deniz-kumcu-081b00187/"><i class="fa fa-linkedin socialmediaperson"></i></a>

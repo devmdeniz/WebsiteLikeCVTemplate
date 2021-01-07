@@ -20,7 +20,7 @@
     text-decoration: none;
     font-size: 125%;
     line-height: 125%;
-    border-radius: 39%;
+    border-radius: 15%;
   }
   
   /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
@@ -64,7 +64,7 @@
 
 footer {
   text-align: center;
-  padding: 3px;
+  padding: 1%;
   background-color: #505050;
   color: white;
 }
@@ -75,10 +75,10 @@ footer {
 
  
  .login {
-     margin-right: 35px;
+     margin-right: 0.5cm;
  }
  .signup {
-     margin-right: 50px;
+     margin-right: 0%;
  }
  
 
