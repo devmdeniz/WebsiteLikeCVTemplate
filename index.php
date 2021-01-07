@@ -23,7 +23,7 @@ require("languages/".$_SESSION["language"].".php");
         <div class="card">
             <img src="images/darklogo.png" alt="John" style="width:99%">
             <h1><?php echo $language["profilecardname"]?></h1>
-            <p class="title"><?php echo $language["profilecardjob"]?></p>
+            <p class="title"><?php echo $language["job"]?></p>
             <p><?php echo $language["profilecarddescription"]?></p>
             <a href="https://instagram.com/dev.mdeniz"><i class="fa fa-instagram socialmediaperson"></i></a>
             <a href="https://github.com/devmdeniz"><i class="fa fa-github socialmediaperson"></i></a>

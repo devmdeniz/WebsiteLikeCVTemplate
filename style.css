@@ -89,7 +89,7 @@ footer {
      position: fixed;
  }
  .card {
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
     width: 250px;
     height: 600px;
     margin: auto;
@@ -98,20 +98,20 @@ footer {
   
   .title {
     color: grey;
-    font-size: 18px;
+    font-size: 100%;
   }
   
   .buttonperson {
     border: none;
     outline: 0;
     display: inline-block;
-    padding: 8px;
+    padding: 2%;
     color: white;
     background-color: #000;
     text-align: center;
     cursor: pointer;
     width: 100%;
-    font-size: 18px;
+    font-size: 125%;
   }
   
   .socialmediaperson {
