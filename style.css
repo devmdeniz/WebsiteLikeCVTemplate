@@ -90,6 +90,7 @@ footer {
  }
  .card {
     box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
+    display: none;
     width: 250px;
     height: 600px;
     margin: auto;
@@ -128,8 +129,8 @@ footer {
     border-color: #aaab;
     box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
     float: none;
-    margin-left: 270px;
-    max-width: 1300px;
+    margin-left: 20%;
+    max-width: 100%;
     z-index: 3;
 }
 
