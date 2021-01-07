@@ -89,7 +89,7 @@ footer {
      position: fixed;
  }
  .card {
-  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
+    box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
     width: 250px;
     height: 600px;
     margin: auto;
@@ -126,7 +126,7 @@ footer {
   .main {
     border-style: groove;
     border-color: #aaab;
-    box-shadow: 10px 10px 5px #aaaaaa;
+    box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
     float: none;
     margin-left: 270px;
     max-width: 1300px;
@@ -148,7 +148,7 @@ footer {
   max-width: 66%;
 }
 .mainlanguage {
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
   float: left;
   max-width: 500px;
   max-height: 200px;
@@ -158,7 +158,7 @@ footer {
 }
 
 .planguagesiknow {
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
   float: none;
   margin-left: 280px;
   max-height: 200px;
@@ -193,7 +193,7 @@ footer {
   color: black;
 }
 .exprojecth3 {
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
   margin-right: 350px;
   margin-left: 36%;
   max-width: 230px;
@@ -205,14 +205,14 @@ footer {
 }
 .exprojectleft {
   float: left;  
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
   max-width: 250px;
   max-height: 100%;
 }
 .exprojectmiddle {
   float: left;
   margin-left: 50px;
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
   max-width: 250px;
   max-height: 100%;
 }
@@ -224,7 +224,7 @@ footer {
 .exprojectright {
   float: left;
   margin-left: 50px;
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
   max-width: 250px;
   max-height: 100%;
 }
@@ -242,7 +242,7 @@ footer {
   max-height: 150px;
 }
 .en {
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
   float: left;
   max-width: 250px;
   max-height: 250px;
@@ -252,7 +252,7 @@ footer {
   margin-left: 45%;
 }
 .tr {
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
   float: left;
   max-width: 250px;
   max-height: 250px;
@@ -270,7 +270,7 @@ footer {
   max-width: 100%;
 }
 .az {
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
   float: left;
   max-width: 250px;
   max-height: 250px;
@@ -284,7 +284,7 @@ footer {
   max-width: 100%;
 }
 .es {
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
   float: left;
   max-width: 250px;
   max-height: 200px;
