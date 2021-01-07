@@ -7,7 +7,7 @@
     z-index: 1;
     overflow: hidden;
     background-color: #f1f1f1;
-    padding: 20px 40px;
+    padding: 1% 1%;
     max-width: 100%;
   }
   
@@ -18,9 +18,9 @@
     text-align: center;
     padding: 12px;
     text-decoration: none;
-    font-size: 18px;
-    line-height: 25px;
-    border-radius: 4px;
+    font-size: 125%;
+    line-height: 125%;
+    border-radius: 39%;
   }
   
   /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
@@ -44,7 +44,7 @@
   /* Float the link section to the right */
   .header-left {
     float: left;
-    margin-left: 50px;
+    margin-left: 5%;
   }
   .header-right {
       float: right;
