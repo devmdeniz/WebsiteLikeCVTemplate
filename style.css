@@ -16,7 +16,7 @@
     float: left;
     color: black;
     text-align: center;
-    padding: 12px;
+    padding: 1vw;
     text-decoration: none;
     font-size: 125%;
     line-height: 125%;
@@ -51,6 +51,7 @@
   }
   
   /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+ /*
   @media screen and (max-width: 100%){
     .header .header-a {
       float: none;
@@ -61,6 +62,7 @@
       float: none;
     }
   }
+*/
 
 footer {
   text-align: center;
@@ -91,8 +93,8 @@ footer {
  .card {
     box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
     display: none;
-    width: 250px;
-    height: 600px;
+    width: 18vw;
+    height: 18vh;
     margin: auto;
     text-align: center;
   }
