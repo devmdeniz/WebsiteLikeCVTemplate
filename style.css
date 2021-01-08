@@ -93,6 +93,8 @@ footer {
  .card {
     width: 18vw;
     height: 18vh;
+    max-height: 18vh;
+    max-width: 18vw;
     margin: auto;
     text-align: center;
   }
@@ -145,7 +147,7 @@ footer {
 .planguages {
 
   margin-top: 5%;
-  margin-left: 30%;
+  margin-left: 25%;
   max-width: 66%;
 }
 .mainlanguage {
@@ -175,8 +177,8 @@ footer {
   margin-left: 15%;
 }
 .exproject {
-  margin-left: 400px;
-  margin-top: 50px;
+  margin-left: 25vw;
+  margin-top: 6vw;
   max-width: 66%;
 }
 .exproject a{
