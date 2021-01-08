@@ -91,8 +91,6 @@ footer {
      position: fixed;
  }
  .card {
-    box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
-    display: none;
     width: 18vw;
     height: 18vh;
     margin: auto;
@@ -155,6 +153,7 @@ footer {
   float: left;
   max-width: 50%;
   max-height: 31%;
+  height: 20vh;
 }
 .mainlanguage img {
   height: 50%;
@@ -166,11 +165,11 @@ footer {
   margin-left: 35%;
   max-height: 50%;
   max-width: 1000px;
-  height: 31%;
+  height: 20vh;
 }
 .planguagesiknow img {
-  max-width: 20%;
-  max-height: 50%;
+  max-width: 10vw;
+  max-height: 9.6vh;
 }
 .planguagesiknow h3 {
   margin-left: 15%;
