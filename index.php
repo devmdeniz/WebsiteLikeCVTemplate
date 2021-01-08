@@ -53,9 +53,7 @@ require("languages/".$_SESSION["language"].".php");
 </div>
 
 <div class="exproject">
-    <h3 class="exprojecth3"><?php echo $language["exampleprojects"]?></h3>
-<br>
-    <div class="exprojectleft">
+<div class="exprojectleft">
 <a href="#" target="_blank">
 <img src="images/git.png">
 <p><?php echo $language["projectonedescription"]?></p>

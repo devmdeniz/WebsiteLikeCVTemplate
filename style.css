@@ -177,9 +177,9 @@ footer {
   margin-left: 15%;
 }
 .exproject {
+  display: flex;
   margin-left: 25vw;
-  margin-top: 6vw;
-  max-width: 66%;
+  margin-top: 6vw;  
 }
 .exproject a{
   color: black;
@@ -196,12 +196,6 @@ footer {
 .exproject a:visited{
   color: black;
 }
-.exprojecth3 {
-  box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
-  margin-right: 350px;
-  margin-left: 36%;
-  max-width: 230px;
-}
 .exprojectleft img {
   max-width: 100px;
   max-height: 100px;
@@ -210,14 +204,14 @@ footer {
 .exprojectleft {
   float: left;  
   box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
-  max-width: 250px;
+  max-width: 25%;
   max-height: 100%;
 }
 .exprojectmiddle {
   float: left;
   margin-left: 50px;
   box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
-  max-width: 250px;
+  max-width: 25%;
   max-height: 100%;
 }
 .exprojectmiddle img {
@@ -227,9 +221,9 @@ footer {
 }
 .exprojectright {
   float: left;
-  margin-left: 50px;
+  margin-left: 5.5%;
   box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
-  max-width: 250px;
+  max-width: 25%;
   max-height: 100%;
 }
 .exprojectright img {
@@ -238,8 +232,8 @@ footer {
   margin-left: 33%;
 }
 .languages {
-  margin-top: 500px;
-  margin-left: 280px;
+  margin-top: 5%;
+  margin-left: 25%;
 }
 .languages img {
   max-width: 150px;
