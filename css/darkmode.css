@@ -187,11 +187,12 @@ border-color: #aaaaaa;
 .mainlanguage img {
 background-color: #2a2f32;
 height: 50%;
+margin-left: 20%
 }
 
 .planguagesiknow {
 float: none;
-margin-left: 35%;
+margin-left: 25%;
 max-height: 50%;
 max-width: 1000px;
 height: 20vh;
