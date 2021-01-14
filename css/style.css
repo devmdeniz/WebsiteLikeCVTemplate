@@ -291,3 +291,8 @@ footer {
 .es p {
   margin-left: 40%;
 }
+
+.header .header-left i {
+  margin-left: center;
+  width: 120px;
+} 
