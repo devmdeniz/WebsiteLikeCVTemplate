@@ -113,6 +113,10 @@ color: white;
   background-color: #2a2f32;
 }
 
+.person .card img{
+  margin: -0.5%;
+}
+
 .title {
   background-color: #2a2f32;
   color: grey;

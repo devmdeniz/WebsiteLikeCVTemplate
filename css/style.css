@@ -88,8 +88,10 @@ footer {
 
  .person {
      float: left;
-     position: fixed;
  }
+ .person .card img{
+  margin: -0.5%;
+}
  .card {
     width: 18vw;
     height: 18vh;
