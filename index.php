@@ -1,8 +1,5 @@
 <?php
 session_start();
-if (!$_SESSION["darkmode"]) {
-   $_SESSION["darkmode"] = true;
-}
 
 if (!$_SESSION["language"]) {
     require("languages/tr.php");
@@ -19,8 +16,7 @@ require("languages/".$_SESSION["language"].".php");
 <!--
     
 -->
-
-    <?php include("theme/header.php");?>
+<?php include("theme/header.php");?>
     <div class="person">
         <div class="card">
             <img src="images/darklogo.png" alt="John" style="width:99%">
@@ -115,7 +111,8 @@ require("languages/".$_SESSION["language"].".php");
         <li><a href="language.php?language=tr">Turkish</a></li>
         <li><a href="language.php?language=en">English</a></li>
         <li><?php echo $_SESSION["language"];?></li>
-</ul>
+        <li><?php echo $_SESSION["darkmode"]?></li>
+    </ul>
 </footer>
 </body>
 
