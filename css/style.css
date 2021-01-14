@@ -159,12 +159,13 @@ footer {
 }
 .mainlanguage img {
   height: 50%;
+  margin-left: 20%;
 }
 
 .planguagesiknow {
   box-shadow: 0.5cm 0.5cm 0.5cm #aaaaaa;
   float: none;
-  margin-left: 35%;
+  margin-left: 25%;
   max-height: 50%;
   max-width: 1000px;
   height: 20vh;

@@ -11,7 +11,7 @@ require("languages/".$_SESSION["language"].".php");
 <html>
 <?php include("theme/headtags.php");?>
 
-<body>
+<body class = "aaaaa">
 
 <!--
     
@@ -19,7 +19,7 @@ require("languages/".$_SESSION["language"].".php");
 <?php include("theme/header.php");?>
     <div class="person">
         <div class="card">
-            <img src="images/darklogo.png" alt="John" style="width:99%">
+            <img src="images/darklogo.png" alt="John" style="width:101%">
             <h1><?php echo $language["profilecardname"]?></h1>
             <p class="title"><?php echo $language["job"]?></p>
             <p><?php echo $language["profilecarddescription"]?></p>
@@ -36,7 +36,7 @@ require("languages/".$_SESSION["language"].".php");
      <p class= "myskillsp"><?php echo $language["myskillsp"]?></p>
 </div>
 <div class="planguages">
-<div class="mainlanguage card"> 
+<div class="mainlanguage"> 
     <h3><?php echo $language["mainprogramminglanguage"]?></h3>
 <img src="images/php.svg" alt="Main Language"/>
 </div>
