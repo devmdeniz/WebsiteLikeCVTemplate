@@ -1,5 +1,8 @@
 <?php
 session_start();
+if (!$_SESSION["darkmode"]) {
+   $_SESSION["darkmode"] = true;
+}
 
 if (!$_SESSION["language"]) {
     require("languages/tr.php");
